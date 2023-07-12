@@ -1,11 +1,3 @@
-// import 'reflect-metadata';
-// const { ApolloServer } = require('apollo-server');
-// const { Sequelize } = require('sequelize-typescript');
-// const typeDefinitions = require('./schema');
-// const resvs = require('./resolvers');
-// const { BetModel } = require('./models/bet');
-// const { UserModel } = require('./models/user');
-
 import 'reflect-metadata';
 import { Sequelize } from 'sequelize-typescript';
 import { ApolloServer } from 'apollo-server';
